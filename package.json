@@ -1,6 +1,7 @@
 {
   "name": "retrifetch",
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "A lightweight Fetch-API wrapper that adds retry and timeout features to fetch.",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
